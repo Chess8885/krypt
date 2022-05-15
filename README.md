@@ -7,3 +7,6 @@ App is deployed at https://dreamy-praline-e00ec9.netlify.app/
 ```bash
 yarn
 ```
+```bash
+yarn run dev
+```
